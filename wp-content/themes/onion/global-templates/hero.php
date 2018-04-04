@@ -10,6 +10,8 @@
 <?php if (is_active_sidebar('hero')
     || is_active_sidebar('statichero')
     || is_active_sidebar('after-header')
+    || is_active_sidebar('our_partner')
+    || is_active_sidebar('statichero_before_owl_slider')
     || is_active_sidebar('owl')) :
 ?>
 
@@ -21,11 +23,11 @@
 
         <?php get_sidebar('owl'); ?>
 
-        <?php get_sidebar('our_partner'); ?>
-
         <?php get_sidebar('statichero'); ?>
 
         <?php get_sidebar('after-header'); ?>
+
+        <?php get_sidebar('our_partner'); ?>
 
     </div>
 

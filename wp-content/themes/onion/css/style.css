@@ -419,7 +419,8 @@ aside.widget {
 
 #before-footer-content .widget-title,
 #wrapper-static-hero .widget-title,
-#wrapper-static-our-parner .widget-title {
+#wrapper-static-our-parner .widget-title,
+#wrapper-after-header .widget-title {
   text-align: center;
   margin: 50px 0 30px 0;
   font-size: 30px;

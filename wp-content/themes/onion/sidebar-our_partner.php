@@ -1,11 +1,10 @@
 <?php
 /**
- * Static hero sidebar setup.
  *
  * @package hbinstrap
  */
 
-$container   = hbinstrap_get_theme_options('container_type');
+$container = hbinstrap_get_theme_options('container_type');
 
 ?>
 

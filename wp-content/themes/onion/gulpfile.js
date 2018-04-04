@@ -18,7 +18,7 @@ var browserSyncWatchFiles = [
 // browser-sync options
 // see: https://www.browsersync.io/docs/options/
 var browserSyncOptions = {
-    proxy: "wordpress49.local",
+    proxy: "onion.local",
     notify: false
 };
 

@@ -68,8 +68,8 @@ if (! function_exists('hbinstrap_widgets_init')) {
             'description'   => 'Display after header on front page',
             'before_widget' => '',
             'after_widget'  => '',
-            'before_title'  => '',
-            'after_title'   => '',
+            'before_title'  => '<h2 class="widget-title">',
+            'after_title'   => '</h2>',
         ));
 
         register_sidebar(array(
