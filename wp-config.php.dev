@@ -39,7 +39,7 @@ define('WP_HTTP_BLOCK_EXTERNAL', true);
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 
-define('DB_NAME', 'wordpress49');
+define('DB_NAME', 'onion_db');
 
 /** MySQL database username */
 define('DB_USER', 'root');
