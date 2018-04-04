@@ -1,0 +1,37 @@
+@mixin caption-title {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    border-left: 6px solid $hover-color;
+    color: $hover-color;
+    background: $bg-color-a;
+    a {
+        color: $hover-color;
+    }
+}
+@mixin list_post_small_item {
+    ul {
+        margin: 0 0 0 30px;
+        padding: 0;
+    }
+}
+@mixin text-justify($width) {
+    max-width: $width;
+    white-space: nowrap;
+    overflow:hidden !important;
+    text-overflow: ellipsis;
+    display: inline-block;
+}
+@mixin arrow-right($n, $color, $content) {
+    height: 0;
+    width: 0;
+    border-top: $n solid transparent;
+    border-bottom: $n solid transparent;
+    border-left: $n solid $color;
+    content: $content;
+    position: absolute;
+    left: 0;
+    top: 0;
+}

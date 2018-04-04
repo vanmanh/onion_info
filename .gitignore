@@ -1,0 +1,7 @@
+vendor
+.DS_Store
+*.tmp
+*.map
+.php_cs.cache
+wp-config.php
+*.*~

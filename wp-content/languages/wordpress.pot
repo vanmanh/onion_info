@@ -1,0 +1,29 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"POT-Creation-Date: 2018-01-03 02:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid "Leave a Reply"
+msgstr ""
+
+msgid "Cancel reply"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Comment"
+msgstr ""

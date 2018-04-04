@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2018-01-03 02:55+0000\n"
+"PO-Revision-Date: 2018-01-03 02:55+0000\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Project-Id-Version: Development\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: admin <abinh.ho@gmail.com>\n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Comment"
+msgstr "Bình luận"
+
+msgid "Leave a Reply"
+msgstr "Viết bình luận"
+
+msgid "Cancel reply"
+msgstr "Huỷ"
+
+msgid "Reply"
+msgstr "<i class=\"fa fa-mail-reply-all small\"></i> trả lời"
+
+msgid "Log out"
+msgstr "Thoát"
+
+msgid "January"
+msgstr "tháng 1 ngày"
+
+msgid "Home"
+msgstr "Trang chủ"
